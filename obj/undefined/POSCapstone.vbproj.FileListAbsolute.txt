@@ -1,0 +1,1137 @@
+C:\Users\19201\Documents\4th Year 1st Sem\PF102\Activities\POSCapstone\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\19201\Documents\4th Year 1st Sem\PF102\Activities\POSCapstone\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\19201\Documents\4th Year 1st Sem\PF102\Activities\POSCapstone\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\19201\Documents\4th Year 1st Sem\PF102\Activities\POSCapstone\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\19201\Documents\4th Year 1st Sem\PF102\Activities\POSCapstone\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\19201\Documents\4th Year 1st Sem\PF102\Activities\POSCapstone\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\19201\Documents\4th Year 1st Sem\PF102\Activities\POSCapstone\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\19201\Documents\4th Year 1st Sem\PF102\Activities\POSCapstone\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\19201\Documents\4th Year 1st Sem\PF102\Activities\POSCapstone\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\19201\Documents\4th Year 1st Sem\PF102\Activities\POSCapstone\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\19201\Documents\4th Year 1st Sem\PF102\Activities\POSCapstone\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\19201\Documents\4th Year 1st Sem\PF102\Activities\POSCapstone\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\19201\Documents\4th Year 1st Sem\PF102\Activities\POSCapstone\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\Tyer\Documents\POSCapstone\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\Tyer\Documents\POSCapstone\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\Tyer\Documents\POSCapstone\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\Tyer\Documents\POSCapstone\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\Tyer\Documents\POSCapstone\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\Tyer\Documents\POSCapstone\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Tyer\Documents\POSCapstone\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\Tyer\Documents\POSCapstone\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\Tyer\Documents\POSCapstone\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\Tyer\Documents\POSCapstone\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\Tyer\Documents\POSCapstone\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\Tyer\Documents\POSCapstone\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\Tyer\Documents\POSCapstone\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\PC\Downloads\POSCapstone\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\PC\Videos\POSCapstoneEP3\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP4\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP5\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\obj\Debug\POSCapstone.Table.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP6 - Copy\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.Table.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.Table.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP7\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\obj\Debug\POSCapstone.Table.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP8\POSCapstone\obj\Debug\POSCapstone.SelectTable.resources
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\obj\Debug\POSCapstone.SelectTable.resources
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\obj\Debug\POSCapstone.Table.resources
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\PC\Videos\POSCapstoneEP9\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\obj\Debug\POSCapstone.SelectTable.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\obj\Debug\POSCapstone.Table.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP11\POSCapstone\obj\Debug\POSCapstone.Qty.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.Qty.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.SelectTable.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.Table.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP12\POSCapstone\obj\Debug\POSCapstone.frmLogin.resources
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.frmLogin.resources
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.frmSettle.resources
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.Qty.resources
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.SelectTable.resources
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.Table.resources
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\PC\Videos\POSCapstoneEP14\POSCapstone\obj\Debug\POSCapstone.frmStart.resources
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.frmLogin.resources
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.frmSettle.resources
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.frmStart.resources
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.Qty.resources
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.SelectTable.resources
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.Table.resources
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\PC\Videos\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.frmLogin.resources
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.frmSettle.resources
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.frmStart.resources
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.Qty.resources
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.SelectTable.resources
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.Table.resources
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\Tyer Mercado\Documents\POSCapstoneEP17\POSCapstone\obj\Debug\POSCapstone.frmDailySales.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.frmDailySales.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.frmLogin.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.frmSettle.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.frmStart.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.Qty.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.SelectTable.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.Table.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.frmSalesDetails.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.frmUserRegistration.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\obj\Debug\POSCapstone.frmMain.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\MetroFramework.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP18\POSCapstone\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\MetroFramework.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.frmDailySales.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.frmLogin.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.frmMain.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.frmSalesDetails.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.frmSettle.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.frmStart.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.frmUserRegistration.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.Qty.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.SelectTable.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.Table.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP23\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\MetroFramework.Design.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\MetroFramework.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.frmDailySales.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.frmLogin.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.frmMain.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.frmSalesDetails.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.frmSettle.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.frmStart.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.frmUserRegistration.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.Qty.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.SelectTable.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.Table.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP24\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\MetroFramework.Design.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\MetroFramework.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.frmDailySales.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.frmLogin.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.frmMain.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.frmSalesDetails.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.frmSettle.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.frmStart.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.frmUserRegistration.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.Qty.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.SelectTable.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.Table.resources
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\19201\Documents\Mema Files\Capstone Files\POSCapstoneEP25\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.frmSales.resources
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.frmDailySales.resources
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.frmLogin.resources
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.frmMain.resources
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.frmSalesDetails.resources
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.frmSettle.resources
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.frmStart.resources
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.frmUserRegistration.resources
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.Qty.resources
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.SelectTable.resources
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.Table.resources
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\MetroFramework.Design.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\MetroFramework.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\bin\Debug\stdole.dll
+C:\Users\PC\Videos\POSCapstoneEP25REUp\POSCapstone\obj\Debug\POSCapstone.frmPrintPreview.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\POSCapstone.exe.config
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\POSCapstone.exe
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\POSCapstone.pdb
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\POSCapstone.xml
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\Google.Protobuf.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\MetroFramework.Design.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\MetroFramework.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\MetroFramework.Fonts.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\Microsoft.ReportViewer.Common.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\MySql.Data.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\System.Buffers.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\System.Memory.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\ZstdNet.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\Google.Protobuf.pdb
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\Google.Protobuf.xml
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\MySql.Data.xml
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\System.Buffers.xml
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\System.Memory.xml
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmPrintPreview.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmSales.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.Category.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmDailySales.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmLogin.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmMain.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmSalesDetails.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmSettle.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmStart.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmUserRegistration.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.POS.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.Product.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.Qty.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.SelectTable.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.Table.resources
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.exe
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.xml
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.pdb
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\Microsoft.ReportViewer.Design.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\Microsoft.SqlServer.Types.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\EnvDTE.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\stdole.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Users\Jerico\Documents\GH Fetch\POSCapstoneEP27\POSCapstone\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.vbproj.AssemblyReference.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmPrintPreview.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmSales.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.Category.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmDailySales.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmLogin.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmMain.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmSalesDetails.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmSettle.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmStart.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmUserRegistration.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.POS.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.Resources.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.Product.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.ProductList.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.Qty.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.SelectTable.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.Table.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.vbproj.GenerateResource.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.vbproj.CoreCompileInputs.cache
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\POSCapstone.exe.config
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\POSCapstone.exe
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\POSCapstone.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\POSCapstone.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\Google.Protobuf.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\MetroFramework.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\MySql.Data.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\System.Buffers.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\System.Memory.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\ZstdNet.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\Google.Protobuf.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\MySql.Data.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\System.Buffers.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\System.Memory.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.vbproj.CopyComplete
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmCancelOrder.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\obj\Debug\POSCapstone.frmAdminPassword.resources
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\EnvDTE.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\stdole.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tyer Mercado\Documents\CAPSTONE\POSCapstoneEP27\POSCapstone\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
